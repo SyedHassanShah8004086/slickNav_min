@@ -1,2 +1,2 @@
-# slickNav_min
-A SlickNav_min Zip file here
+# slickNav_master
+A SlickNav_master Zip file here
